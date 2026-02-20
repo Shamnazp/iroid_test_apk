@@ -3,7 +3,6 @@ import 'package:iroid_apk/view/home/homescreen.dart';
 import 'package:iroid_apk/viewmodel/home_vm.dart';
 import 'package:provider/provider.dart';
 import 'data/services/api_service.dart';
-import 'data/repositories/home_repository.dart';
 
 void main() {
   runApp(const MyApp());
